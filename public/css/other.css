@@ -1,0 +1,39 @@
+body {
+    margin-top: 50px;
+    background: url('/images/fon.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.text-golden {
+    color: black;
+}
+
+.bg-light-gold {
+    background-color: #fff8e1;
+}
+
+.border-gold {
+    border-color: #FFD700;
+}
+
+.btn-golden {
+    background-color: #FFD700;
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-golden:hover {
+    background-color: #ffcc00;
+}
+
+.container {
+    background: linear-gradient(135deg, #b8860b, #ffcc00, #d4af37);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+label, h1 {
+    font-family: 'Arial', sans-serif;
+}
