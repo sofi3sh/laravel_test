@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0199643c-816b-4b5f-b049-023f786697c8)
+![image](https://github.com/user-attachments/assets/b73d1a89-07ba-4f6a-b2aa-f94a14c32f6f)
+
 
 
 Інструкція по запуску Laravel API-проєкту 🚀
